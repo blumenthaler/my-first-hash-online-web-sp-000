@@ -1,6 +1,7 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  
+  things_I_like = {"Island" => "A good novel by Aldous Huxley", "Truth" => "A delicious IPA from Rheingeist", "Crazy Rhythm" => "A fun jazz standard I am learning to play"
+  }
 
   
 end
